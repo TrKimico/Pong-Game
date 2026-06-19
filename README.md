@@ -4,8 +4,8 @@
 Arcade game recreating the iconic game from the very early days of the industry.
 
 ## **Requirements**
-- [python](https://example.com) 3.x
-- [pygame](https://example.com) : python library
+- [python](https://www.python.org/) 3.x
+- [pygame](https://www.pygame.org/news) : python library
 
 ## **Set Up**
 ### **Cloning the Repository**
