@@ -1,0 +1,21 @@
+# Fichiers système / environnement de bureau
+.directory
+.nextcloudsync.log
+.DS_Store
+Thumbs.db
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+.venv/
+venv/
+env/
+
+# Éditeurs / IDE
+.vscode/
+.idea/
+*.swp
