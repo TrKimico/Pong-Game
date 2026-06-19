@@ -1,4 +1,4 @@
-# Fichiers système / environnement de bureau
+# System Files / Desktop Environment
 .directory
 .nextcloudsync.log
 .DS_Store
@@ -15,7 +15,7 @@ __pycache__/
 venv/
 env/
 
-# Éditeurs / IDE
+# Editors
 .vscode/
 .idea/
 *.swp
